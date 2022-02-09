@@ -26,6 +26,8 @@ o	% Passing Reading (The percentage of students that passed reading.)
 
 o	% Overall Passing (The percentage of students that passed math and reading.)
 
+![Screen Shot 2022-02-08 at 8 18 55 PM](https://user-images.githubusercontent.com/87212158/153103477-01dfc537-59ec-49ba-a296-0b3a4394a29d.png)
+
 # School Summary
 
 •	An overview table that summarizes key metrics about each school, including: 
